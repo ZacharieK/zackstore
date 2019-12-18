@@ -3,7 +3,7 @@ Getting Started
 
 1. Download and install Apache Maven 3.6.3 by following these steps https://www.mkyong.com/maven/how-to-install-maven-in-windows/
 2. Clone project on github https://github.com/ZacharieK/zackstore
-3. Import your project in your workspace and run it
+3. Import the project in your workspace in eclipse and run it
 
 Links to test
 ------------
